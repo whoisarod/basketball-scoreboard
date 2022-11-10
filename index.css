@@ -6,6 +6,7 @@ body {
     align-items: center;
 }
 
+/* fixed width according to figma file */
 .container {
     display: flex;
     justify-content: space-around;
